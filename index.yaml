@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  java-wen-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-09T12:56:52.514347461Z"
+    description: A Helm chart for Kubernetes
+    digest: 14c61088af4793ae11bd4df0add4c6163f9a83d04bb0dfa47f5bd0f0bb4c4331
+    name: java-wen-app
+    type: application
+    urls:
+    - https://mithuntech-projects.github.io/HelmRepo/java-wen-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-09T12:56:52.513069592Z"
